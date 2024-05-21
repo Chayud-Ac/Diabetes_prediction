@@ -1,0 +1,2 @@
+diabetes_prediction_dataset.csv filter=lfs diff=lfs merge=lfs -text
+best_model_diabetes.pkl filter=lfs diff=lfs merge=lfs -text
